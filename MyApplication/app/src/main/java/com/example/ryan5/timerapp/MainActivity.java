@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         btnStart = (Button) findViewById(R.id.btnStart);
-        editTime = (EditText) findViewById(R.id.editTime);
+
         progress = (ProgressBar) findViewById(R.id.progressBar);
 
         //Animation an = new RotateAnimation(0.0f, 90.0f, 550f, 500f);
